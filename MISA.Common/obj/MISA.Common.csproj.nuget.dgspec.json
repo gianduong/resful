@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\source\\resful\\MISA.Common\\MISA.Common.csproj": {}
+    "E:\\gitFile\\resful\\MISA.Common\\MISA.Common.csproj": {}
   },
   "projects": {
-    "E:\\source\\resful\\MISA.Common\\MISA.Common.csproj": {
+    "E:\\gitFile\\resful\\MISA.Common\\MISA.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\source\\resful\\MISA.Common\\MISA.Common.csproj",
+        "projectUniqueName": "E:\\gitFile\\resful\\MISA.Common\\MISA.Common.csproj",
         "projectName": "MISA.Common",
-        "projectPath": "E:\\source\\resful\\MISA.Common\\MISA.Common.csproj",
+        "projectPath": "E:\\gitFile\\resful\\MISA.Common\\MISA.Common.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\source\\resful\\MISA.Common\\obj\\",
+        "outputPath": "E:\\gitFile\\resful\\MISA.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

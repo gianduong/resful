@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\source\\resful\\MISA.DL\\MISA.DL.csproj": {}
+    "E:\\gitFile\\resful\\MISA.DL\\MISA.DL.csproj": {}
   },
   "projects": {
-    "E:\\source\\resful\\MISA.Common\\MISA.Common.csproj": {
+    "E:\\gitFile\\resful\\MISA.Common\\MISA.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\source\\resful\\MISA.Common\\MISA.Common.csproj",
+        "projectUniqueName": "E:\\gitFile\\resful\\MISA.Common\\MISA.Common.csproj",
         "projectName": "MISA.Common",
-        "projectPath": "E:\\source\\resful\\MISA.Common\\MISA.Common.csproj",
+        "projectPath": "E:\\gitFile\\resful\\MISA.Common\\MISA.Common.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\source\\resful\\MISA.Common\\obj\\",
+        "outputPath": "E:\\gitFile\\resful\\MISA.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "E:\\source\\resful\\MISA.DL\\MISA.DL.csproj": {
+    "E:\\gitFile\\resful\\MISA.DL\\MISA.DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\source\\resful\\MISA.DL\\MISA.DL.csproj",
+        "projectUniqueName": "E:\\gitFile\\resful\\MISA.DL\\MISA.DL.csproj",
         "projectName": "MISA.DL",
-        "projectPath": "E:\\source\\resful\\MISA.DL\\MISA.DL.csproj",
+        "projectPath": "E:\\gitFile\\resful\\MISA.DL\\MISA.DL.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\source\\resful\\MISA.DL\\obj\\",
+        "outputPath": "E:\\gitFile\\resful\\MISA.DL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\source\\resful\\MISA.Common\\MISA.Common.csproj": {
-                "projectPath": "E:\\source\\resful\\MISA.Common\\MISA.Common.csproj"
+              "E:\\gitFile\\resful\\MISA.Common\\MISA.Common.csproj": {
+                "projectPath": "E:\\gitFile\\resful\\MISA.Common\\MISA.Common.csproj"
               }
             }
           }

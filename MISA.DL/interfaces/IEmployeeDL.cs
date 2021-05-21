@@ -5,6 +5,7 @@ using System.Text;
 
 namespace MISA.DL.interfaces
 {
+    //chek thay doi
     public interface IEmployeeDL: IBaseDL<Employee>
     {
         bool CheckEmployeeCodeExist(string customerCode);

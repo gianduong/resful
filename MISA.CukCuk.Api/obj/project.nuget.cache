@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u4bG1O+AH/8kE9hs5kQbldj1pLCw0SnDK03Hz0hEwPblBbYnNDnKsdvkSKjERutZbChzoHJN6reHgo7Gpmy4Zg==",
+  "dgSpecHash": "Dkpy5ljXmKb1PVmVsx5JeSUJ236r651ylRrch9ItCHHzfdTWKTD581m1lOxss5I7Q2PNCoL3CeyxRH7Zqt/U2Q==",
   "success": true,
-  "projectFilePath": "E:\\source\\resful\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj",
+  "projectFilePath": "E:\\gitFile\\resful\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",

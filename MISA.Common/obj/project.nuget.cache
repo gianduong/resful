@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EG0njRHQBpWA/ugwcqSpCN3IGleoSDcGk0aldps1Z3hqS5BpM2MnlBt/OZIJom27QicK7O+p0keOxHmWYusQpw==",
+  "dgSpecHash": "wnK5xH1z5Mz7ZLSuKGh5ii+UM8H/782rILk+e/OABRIxkc7+8UUXOFNEeHrJfzyVPkyMzPzA1b6Qrm/sCe5e/g==",
   "success": true,
-  "projectFilePath": "E:\\source\\resful\\MISA.Common\\MISA.Common.csproj",
+  "projectFilePath": "E:\\gitFile\\resful\\MISA.Common\\MISA.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
